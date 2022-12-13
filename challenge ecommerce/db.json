@@ -1,0 +1,47 @@
+{
+    "producto": [
+        {
+            "nombre": "Control Xbox",
+            "fotourl": "../imagenes/consolas1.png",
+            "precio": "300.000",
+            "id": 1,
+            "seccion": "Consolas"
+        },
+        {
+            "nombre": "Playstation 5",
+            "fotourl": "../imagenes/consolas2.png",
+            "precio": "3.500.000",
+            "id": 2,
+            "seccion": "Consolas"
+        },
+        {
+            "nombre": "Nintendo clasica (nes)",
+            "fotourl": "../imagenes/consolas3.png",
+            "precio": "400.000",
+            "id": 3,
+            "seccion": "Consolas"
+        },
+        {
+            "nombre": "Gameboy switch",
+            "fotourl": "../imagenes/consolas4.png",
+            "precio": "2.100.000",
+            "id": 4,
+            "seccion": "Consolas"
+        },
+        {
+            "nombre": "Xbox one",
+            "fotourl": "../imagenes/consolas5.png",
+            "precio": "1.550.000",
+            "id": 5,
+            "seccion": "Consolas"
+        },
+        {
+            "nombre": "Gameboy advance",
+            "fotourl": "../imagenes/consolas6.png",
+            "precio": "400.000",
+            "id": 6,
+            "seccion": "Consolas"
+        }
+
+    ]
+}
